@@ -1,0 +1,88 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Aryan Singh",
+      "email": "aryansinghcoffee@gmail.com",
+      "phone": 6306448908,
+      "password": "aryan123"
+    },
+    {
+      "id": "1617",
+      "name": "Nayab Khan",
+      "email": "nayabkhan64@gmail.com",
+      "phone": "9696050128",
+      "password": "nayab123"
+    },
+    {
+      "id": "6",
+      "name": "Rohan Verma",
+      "username": "rohan_vrm",
+      "email": "rohanverma24@gmail.com",
+      "phone": "9876543210",
+      "password": "rohan456"
+    },
+    {
+      "id": "7",
+      "name": "Simran Kaur",
+      "username": "simran_kaur_7",
+      "email": "simrankaur7@gmail.com",
+      "phone": "7890654321",
+      "password": "simran789"
+    },
+    {
+      "id": "8",
+      "name": "Vikram Pesai",
+      "username": "vikram_d_123",
+      "email": "vikramdesai123@gmail.com",
+      "phone": "9123456789",
+      "password": "vikram123"
+    },
+    {
+      "id": "9",
+      "name": "Pooja Nair",
+      "username": "pooja_nair",
+      "email": "poojanair456@gmail.com",
+      "phone": "9345678901",
+      "password": "pooja456"
+    },
+    {
+      "id": "10",
+      "name": "Arjun Patel",
+      "username": "arjun_patel",
+      "email": "arjunpatel789@gmail.com",
+      "phone": "9456781230",
+      "password": "arjun789"
+    },
+    {
+      "id": "11",
+      "name": "Riya Gupta",
+      "username": "riya_gpt_01",
+      "email": "riyagupta01@gmail.com",
+      "phone": "9567812345",
+      "password": "riya123"
+    },
+    {
+      "id": "12",
+      "name": "Sahil Malik",
+      "username": "sahil_mlk",
+      "email": "sahilmalik32@gmail.com",
+      "phone": "9678901234",
+      "password": "sahil456"
+    },
+    {
+      "id": "e783",
+      "name": "Aryan Sharma",
+      "email": "aryandark8888@gmail.com",
+      "phone": "06306448908",
+      "password": "kedbe"
+    },
+    {
+      "id": "8816",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "password": ""
+    }
+  ]
+}
